@@ -1,0 +1,4 @@
+#Penghitung Luas Lingkaran
+JariJari = float(input('Panjang Jari jari: '))
+HasilLuas = 3.14*JariJari**2
+print('Luas:', HasilLuas)
